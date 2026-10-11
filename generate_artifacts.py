@@ -225,7 +225,7 @@ def generate_presentation_pptx():
         {
             "slide_num": 1,
             "title": "AI/NLP Financial Risk Intelligence & Tactical Allocation",
-            "subtitle": "S&P Global & CRISIL Campus Hackathon 2026 | Case Study Round 3\nCandidate: Shivam Pal | College: Campus Finalist",
+            "subtitle": "S&P Global & CRISIL Campus Hackathon 2026 | Case Study Round 3\nCandidate: Shivam Pal | IIIT Agartala (shivam_24uics157@iiitagartala.ac.in)",
             "points": [
                 "Unified central AI/NLP engine transforming unstructured market text into machine-readable risk signals",
                 "Full dual implementation: Module A (Tactical Index Rebalancing) + Module B (Wholesale Portfolio Stress Testing)",
@@ -352,7 +352,7 @@ def generate_presentation_pdf():
             "Slide 1: AI/NLP Financial Risk Intelligence & Tactical Allocation",
             "S&P Global & CRISIL Campus Hackathon 2026 | Case Study Round 3",
             [
-                "Candidate: Shivam Pal | S&P Hackathon Finalist",
+                "Candidate: Shivam Pal | IIIT Agartala (shivam_24uics157@iiitagartala.ac.in)",
                 "Primary Deliverable: Central AI/NLP Risk Engine parsing unstructured financial news & social streams.",
                 "Dual Downstream Implementation: Module A (Tactical Index Rebalancer) + Module B (Wholesale Portfolio Stress Tester).",
                 "Institutional Standards: Loughran-McDonald sentiment weighting, Basel III CET1 metrics, and Bloomberg-grade dashboard.",

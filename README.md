@@ -2,8 +2,8 @@
 
 **Candidate Name:** Shivam Pal  
 **GitHub Repository:** https://github.com/Shivampal157/S-P-Hachathon  
-**College Email ID:** [your_id@college.ac.in] *(Please update with your college email)*  
-**College / Campus:** [Your College / Campus Name] *(Please update with your college name)*  
+**College Email ID:** shivam_24uics157@iiitagartala.ac.in  
+**College / Campus:** Indian Institute of Information Technology Agartala (IIIT Agartala)  
 **Demo Video Link:** https://youtu.be/5LIMtVfau2k?si=EmWJi6jSBrxcZWki  
 **Slide Deck Link (if hosted externally):** docs/presentation.pdf (also available in `docs/presentation.pptx`)  
 
