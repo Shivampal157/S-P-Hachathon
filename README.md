@@ -1,6 +1,7 @@
 # S&P Global & CRISIL AI/NLP Risk Intelligence Platform - S&P Global & Crisil Campus Hackathon
 
 **Candidate Name:** Shivam Pal  
+**GitHub Repository:** https://github.com/Shivampal157/S-P-Hachathon  
 **College Email ID:** [your_id@college.ac.in] *(Please update with your college email)*  
 **College / Campus:** [Your College / Campus Name] *(Please update with your college name)*  
 **Demo Video Link:** [YouTube / Unlisted Link] *(Paste unlisted YouTube link here)*  
@@ -67,8 +68,8 @@ To prove real-world domain actionability, we went beyond the hackathon minimum r
 
 ```bash
 # 1. Clone repository
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/Shivampal157/S-P-Hachathon.git
+cd S-P-Hachathon
 
 # 2. Install dependencies
 pip install -r requirements.txt
