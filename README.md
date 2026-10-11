@@ -4,7 +4,7 @@
 **GitHub Repository:** https://github.com/Shivampal157/S-P-Hachathon  
 **College Email ID:** [your_id@college.ac.in] *(Please update with your college email)*  
 **College / Campus:** [Your College / Campus Name] *(Please update with your college name)*  
-**Demo Video Link:** https://youtu.be/5LIMtVfau2k  
+**Demo Video Link:** https://youtu.be/5LIMtVfau2k?si=EmWJi6jSBrxcZWki  
 **Slide Deck Link (if hosted externally):** docs/presentation.pdf (also available in `docs/presentation.pptx`)  
 
 ---
