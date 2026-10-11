@@ -1,0 +1,90 @@
+[
+  {
+    "id": "NEWS-001",
+    "source": "Financial Times",
+    "timestamp": "2026-10-10T08:30:00Z",
+    "ticker": "NVDA",
+    "company": "NVIDIA Corporation",
+    "headline": "NVIDIA unveils next-gen Blackwell Ultra AI superchips with 3x compute efficiency, surging enterprise order pipeline",
+    "content": "NVIDIA today officially launched its next-generation ultra AI computing platform, beating analyst performance benchmarks by over 40 percent. Major hyperscalers including Microsoft, Google, and Amazon have reportedly expanded capex commitments, signaling unprecedented demand for enterprise AI infrastructure and silicon dominance.",
+    "expected_event": "Product Launch",
+    "expected_sentiment_sign": "positive"
+  },
+  {
+    "id": "NEWS-002",
+    "source": "Bloomberg Markets",
+    "timestamp": "2026-10-10T10:15:00Z",
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "headline": "Federal Reserve signals aggressive benchmark rate hike of 50 bps amid persistent inflation shockwaves",
+    "content": "Federal Reserve Chair warned in an emergency address that core PCE inflation figures remain stubbornly elevated, prompting the central bank to project a 50 bps rate hike at the upcoming FOMC meeting. The aggressive hawkish stance has sparked yield curve volatility across wholesale banking credit facilities and interbank lending.",
+    "expected_event": "Macroeconomic",
+    "expected_sentiment_sign": "negative"
+  },
+  {
+    "id": "NEWS-003",
+    "source": "Reuters",
+    "timestamp": "2026-10-10T11:45:00Z",
+    "ticker": "XOM",
+    "company": "Exxon Mobil Corporation",
+    "headline": "Escalating Strait of Hormuz conflict triggers emergency maritime trade blockade, crude oil spikes past $115/bbl",
+    "content": "Intensifying geopolitical military confrontations in key maritime shipping corridors have halted commercial oil transit. Global commodity desks report severe supply disruption fears as crude prices surged over 14% intraday, escalating stagflation risk across transport and manufacturing sectors worldwide.",
+    "expected_event": "Geopolitical",
+    "expected_sentiment_sign": "negative"
+  },
+  {
+    "id": "NEWS-004",
+    "source": "Wall Street Journal",
+    "timestamp": "2026-10-10T13:20:00Z",
+    "ticker": "BA",
+    "company": "Boeing Co.",
+    "headline": "S&P and Moody's downgrade major commercial aerospace debt to Junk status following severe liquidity crunch and production defaults",
+    "content": "Credit rating agencies have stripped the industrial manufacturer of its investment-grade rating, downgrading senior unsecured credit to BB- with negative outlook. Debt covenants have been triggered, causing credit default swap spreads to widen by 380 basis points and freezing primary syndication markets.",
+    "expected_event": "Credit Event",
+    "expected_sentiment_sign": "negative"
+  },
+  {
+    "id": "NEWS-005",
+    "source": "CNBC",
+    "timestamp": "2026-10-10T14:05:00Z",
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "headline": "Microsoft finalizes $45 Billion cloud security acquisition after unconditional EU and FTC antitrust approval",
+    "content": "Microsoft Corporation has closed its definitive acquisition of leading autonomous cyber-defense firm, securing regulatory clearances globally without concessions. The transaction expands Microsoft's annualized high-margin enterprise recurring cloud revenue by an estimated $4.8 billion.",
+    "expected_event": "Merger/Acquisition",
+    "expected_sentiment_sign": "positive"
+  },
+  {
+    "id": "NEWS-006",
+    "source": "Associated Press",
+    "timestamp": "2026-10-10T15:30:00Z",
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "headline": "Apple reports record Q4 services revenue and expands authorized share buyback program to $110 billion",
+    "content": "Apple Inc posted quarterly gross margins reaching 46.2 percent, topping Wall Street expectations across emerging markets. CEO announced a record dividend boost and extended shareholder return program, citing robust enterprise software adoption and customer retention.",
+    "expected_event": "Macroeconomic",
+    "expected_sentiment_sign": "positive"
+  },
+  {
+    "id": "NEWS-007",
+    "source": "MarketWatch",
+    "timestamp": "2026-10-10T16:10:00Z",
+    "ticker": "TSLA",
+    "company": "Tesla Inc.",
+    "headline": "Department of Justice opens comprehensive regulatory probe into autonomous driving safety claims and supply contracts",
+    "content": "Federal prosecutors and securities regulators have issued formal subpoenas requesting internal test logs, sensor calibration records, and vendor supply contracts. Legal analysts estimate potential compliance remediation charges and operational friction across assembly facilities.",
+    "expected_event": "Credit Event",
+    "expected_sentiment_sign": "negative"
+  },
+  {
+    "id": "NEWS-008",
+    "source": "Financial Times",
+    "timestamp": "2026-10-10T17:00:00Z",
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "headline": "Google Cloud secures $12B multi-year sovereign digital transformation contract across EMEA financial consortiums",
+    "content": "Alphabet's cloud division has signed landmark sovereign cloud contracts covering 14 European banking groups. The multi-tenant architecture adheres strictly to Basel III data sovereignty standards, locking in long-term enterprise workload migration.",
+    "expected_event": "Product Launch",
+    "expected_sentiment_sign": "positive"
+  }
+]

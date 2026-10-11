@@ -1,0 +1,17 @@
+[
+  {"ticker": "AAPL", "name": "Apple Inc.", "sector": "Information Technology", "benchmark_weight": 0.075},
+  {"ticker": "MSFT", "name": "Microsoft Corporation", "sector": "Information Technology", "benchmark_weight": 0.070},
+  {"ticker": "NVDA", "name": "NVIDIA Corporation", "sector": "Semiconductors", "benchmark_weight": 0.068},
+  {"ticker": "AMZN", "name": "Amazon.com Inc.", "sector": "Consumer Discretionary", "benchmark_weight": 0.062},
+  {"ticker": "GOOGL", "name": "Alphabet Inc.", "sector": "Communication Services", "benchmark_weight": 0.058},
+  {"ticker": "META", "name": "Meta Platforms Inc.", "sector": "Communication Services", "benchmark_weight": 0.052},
+  {"ticker": "BRK.B", "name": "Berkshire Hathaway Inc.", "sector": "Financials", "benchmark_weight": 0.048},
+  {"ticker": "JPM", "name": "JPMorgan Chase & Co.", "sector": "Financials", "benchmark_weight": 0.045},
+  {"ticker": "TSLA", "name": "Tesla Inc.", "sector": "Automotive & Energy", "benchmark_weight": 0.040},
+  {"ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "benchmark_weight": 0.038},
+  {"ticker": "V", "name": "Visa Inc.", "sector": "Financial Services", "benchmark_weight": 0.035},
+  {"ticker": "XOM", "name": "Exxon Mobil Corporation", "sector": "Energy", "benchmark_weight": 0.032},
+  {"ticker": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare", "benchmark_weight": 0.030},
+  {"ticker": "PG", "name": "Procter & Gamble Co.", "sector": "Consumer Staples", "benchmark_weight": 0.028},
+  {"ticker": "HD", "name": "Home Depot Inc.", "sector": "Consumer Discretionary", "benchmark_weight": 0.026}
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "SIG-NEWS-001",
+    "timestamp": "2026-10-11T09:09:03.947766+00:00",
+    "source": "Financial Times",
+    "ticker": "NVDA",
+    "company": "NVIDIA Corporation",
+    "sentiment_score": 1.0,
+    "sentiment_label": "Positive",
+    "event_classification": "Product Launch",
+    "event_confidence": 0.95,
+    "impact_score": 8,
+    "is_high_impact": true,
+    "summary": "NVIDIA unveils next-gen Blackwell Ultra AI superchips with 3x compute efficiency, surging enterprise order pipeline",
+    "raw_text": "NVIDIA unveils next-gen Blackwell Ultra AI superchips with 3x compute efficiency, surging enterprise order pipeline. NVIDIA today officially launched its next-generation ultra AI computing platform, beating analyst performance benchmarks by over 40 percent. Major hyperscalers including Microsoft, Google, and Amazon have reportedly expanded capex commitments, signaling unprecedented demand for enterprise AI infrastructure and silicon dominance.",
+    "metadata": {
+      "headline": "NVIDIA unveils next-gen Blackwell Ultra AI superchips with 3x compute efficiency, surging enterprise order pipeline",
+      "expected_event": "Product Launch",
+      "expected_sentiment_sign": "positive"
+    }
+  },
+  {
+    "id": "SIG-NEWS-002",
+    "timestamp": "2026-10-11T09:09:03.948288+00:00",
+    "source": "Bloomberg Markets",
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "sentiment_score": -1.0,
+    "sentiment_label": "Negative",
+    "event_classification": "Macroeconomic",
+    "event_confidence": 0.91,
+    "impact_score": 10,
+    "is_high_impact": true,
+    "summary": "Federal Reserve signals aggressive benchmark rate hike of 50 bps amid persistent inflation shockwaves",
+    "raw_text": "Federal Reserve signals aggressive benchmark rate hike of 50 bps amid persistent inflation shockwaves. Federal Reserve Chair warned in an emergency address that core PCE inflation figures remain stubbornly elevated, prompting the central bank to project a 50 bps rate hike at the upcoming FOMC meeting. The aggressive hawkish stance has sparked yield curve volatility across wholesale banking credit facilities and interbank lending.",
+    "metadata": {
+      "headline": "Federal Reserve signals aggressive benchmark rate hike of 50 bps amid persistent inflation shockwaves",
+      "expected_event": "Macroeconomic",
+      "expected_sentiment_sign": "negative"
+    }
+  },
+  {
+    "id": "SIG-NEWS-003",
+    "timestamp": "2026-10-11T09:09:03.948669+00:00",
+    "source": "Reuters",
+    "ticker": "XOM",
+    "company": "Exxon Mobil Corporation",
+    "sentiment_score": -1.0,
+    "sentiment_label": "Negative",
+    "event_classification": "Geopolitical",
+    "event_confidence": 0.73,
+    "impact_score": 10,
+    "is_high_impact": true,
+    "summary": "Escalating Strait of Hormuz conflict triggers emergency maritime trade blockade, crude oil spikes past $115/bbl",
+    "raw_text": "Escalating Strait of Hormuz conflict triggers emergency maritime trade blockade, crude oil spikes past $115/bbl. Intensifying geopolitical military confrontations in key maritime shipping corridors have halted commercial oil transit. Global commodity desks report severe supply disruption fears as crude prices surged over 14% intraday, escalating stagflation risk across transport and manufacturing sectors worldwide.",
+    "metadata": {
+      "headline": "Escalating Strait of Hormuz conflict triggers emergency maritime trade blockade, crude oil spikes past $115/bbl",
+      "expected_event": "Geopolitical",
+      "expected_sentiment_sign": "negative"
+    }
+  },
+  {
+    "id": "SIG-NEWS-004",
+    "timestamp": "2026-10-11T09:09:03.949133+00:00",
+    "source": "Wall Street Journal",
+    "ticker": "BA",
+    "company": "Boeing Co.",
+    "sentiment_score": -1.0,
+    "sentiment_label": "Negative",
+    "event_classification": "Credit Event",
+    "event_confidence": 0.74,
+    "impact_score": 10,
+    "is_high_impact": true,
+    "summary": "S&P and Moody's downgrade major commercial aerospace debt to Junk status following severe liquidity crunch and production defaults",
+    "raw_text": "S&P and Moody's downgrade major commercial aerospace debt to Junk status following severe liquidity crunch and production defaults. Credit rating agencies have stripped the industrial manufacturer of its investment-grade rating, downgrading senior unsecured credit to BB- with negative outlook. Debt covenants have been triggered, causing credit default swap spreads to widen by 380 basis points and freezing primary syndication markets.",
+    "metadata": {
+      "headline": "S&P and Moody's downgrade major commercial aerospace debt to Junk status following severe liquidity crunch and production defaults",
+      "expected_event": "Credit Event",
+      "expected_sentiment_sign": "negative"
+    }
+  },
+  {
+    "id": "SIG-NEWS-005",
+    "timestamp": "2026-10-11T09:09:03.949432+00:00",
+    "source": "CNBC",
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "sentiment_score": 1.0,
+    "sentiment_label": "Positive",
+    "event_classification": "Merger/Acquisition",
+    "event_confidence": 0.76,
+    "impact_score": 8,
+    "is_high_impact": true,
+    "summary": "Microsoft finalizes $45 Billion cloud security acquisition after unconditional EU and FTC antitrust approval",
+    "raw_text": "Microsoft finalizes $45 Billion cloud security acquisition after unconditional EU and FTC antitrust approval. Microsoft Corporation has closed its definitive acquisition of leading autonomous cyber-defense firm, securing regulatory clearances globally without concessions. The transaction expands Microsoft's annualized high-margin enterprise recurring cloud revenue by an estimated $4.8 billion.",
+    "metadata": {
+      "headline": "Microsoft finalizes $45 Billion cloud security acquisition after unconditional EU and FTC antitrust approval",
+      "expected_event": "Merger/Acquisition",
+      "expected_sentiment_sign": "positive"
+    }
+  },
+  {
+    "id": "SIG-NEWS-006",
+    "timestamp": "2026-10-11T09:09:03.949776+00:00",
+    "source": "Associated Press",
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "sentiment_score": 1.0,
+    "sentiment_label": "Positive",
+    "event_classification": "Geopolitical",
+    "event_confidence": 0.75,
+    "impact_score": 10,
+    "is_high_impact": true,
+    "summary": "Apple reports record Q4 services revenue and expands authorized share buyback program to $110 billion",
+    "raw_text": "Apple reports record Q4 services revenue and expands authorized share buyback program to $110 billion. Apple Inc posted quarterly gross margins reaching 46.2 percent, topping Wall Street expectations across emerging markets. CEO announced a record dividend boost and extended shareholder return program, citing robust enterprise software adoption and customer retention.",
+    "metadata": {
+      "headline": "Apple reports record Q4 services revenue and expands authorized share buyback program to $110 billion",
+      "expected_event": "Macroeconomic",
+      "expected_sentiment_sign": "positive"
+    }
+  },
+  {
+    "id": "SIG-NEWS-007",
+    "timestamp": "2026-10-11T09:09:03.950111+00:00",
+    "source": "MarketWatch",
+    "ticker": "TSLA",
+    "company": "Tesla Inc.",
+    "sentiment_score": -0.2021,
+    "sentiment_label": "Negative",
+    "event_classification": "Regulatory/Legal",
+    "event_confidence": 0.79,
+    "impact_score": 7,
+    "is_high_impact": true,
+    "summary": "Department of Justice opens comprehensive regulatory probe into autonomous driving safety claims and supply contracts",
+    "raw_text": "Department of Justice opens comprehensive regulatory probe into autonomous driving safety claims and supply contracts. Federal prosecutors and securities regulators have issued formal subpoenas requesting internal test logs, sensor calibration records, and vendor supply contracts. Legal analysts estimate potential compliance remediation charges and operational friction across assembly facilities.",
+    "metadata": {
+      "headline": "Department of Justice opens comprehensive regulatory probe into autonomous driving safety claims and supply contracts",
+      "expected_event": "Credit Event",
+      "expected_sentiment_sign": "negative"
+    }
+  },
+  {
+    "id": "SIG-NEWS-008",
+    "timestamp": "2026-10-11T09:09:03.950300+00:00",
+    "source": "Financial Times",
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "sentiment_score": 0.3818,
+    "sentiment_label": "Positive",
+    "event_classification": "Product Launch",
+    "event_confidence": 0.5,
+    "impact_score": 5,
+    "is_high_impact": false,
+    "summary": "Google Cloud secures $12B multi-year sovereign digital transformation contract across EMEA financial consortiums",
+    "raw_text": "Google Cloud secures $12B multi-year sovereign digital transformation contract across EMEA financial consortiums. Alphabet's cloud division has signed landmark sovereign cloud contracts covering 14 European banking groups. The multi-tenant architecture adheres strictly to Basel III data sovereignty standards, locking in long-term enterprise workload migration.",
+    "metadata": {
+      "headline": "Google Cloud secures $12B multi-year sovereign digital transformation contract across EMEA financial consortiums",
+      "expected_event": "Product Launch",
+      "expected_sentiment_sign": "positive"
+    }
+  },
+  {
+    "id": "SIG-TWT-101",
+    "timestamp": "2026-10-11T09:09:03.950491+00:00",
+    "source": "Twitter/X (FinTwit)",
+    "ticker": "NVDA",
+    "company": "NVIDIA Corporation",
+    "sentiment_score": -0.5712,
+    "sentiment_label": "Negative",
+    "event_classification": "Geopolitical",
+    "event_confidence": 0.43,
+    "impact_score": 8,
+    "is_high_impact": true,
+    "summary": "Huge volume breakout on $NVDA following Blackwell Ultra announcement",
+    "raw_text": "Huge volume breakout on $NVDA following Blackwell Ultra announcement. Demand multiples look insane, data center forward PE collapsing into value territory! \ud83d\ude80 Target $210.",
+    "metadata": {
+      "handle": "@TechQuantAlpha",
+      "follower_count": 142000,
+      "verified": true
+    }
+  },
+  {
+    "id": "SIG-TWT-102",
+    "timestamp": "2026-10-11T09:09:03.950629+00:00",
+    "source": "StockTwits",
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "sentiment_score": -0.1027,
+    "sentiment_label": "Neutral",
+    "event_classification": "Macroeconomic",
+    "event_confidence": 0.86,
+    "impact_score": 7,
+    "is_high_impact": true,
+    "summary": "FOMC emergency rate projection hitting credit desks hard",
+    "raw_text": "FOMC emergency rate projection hitting credit desks hard. 2Y yield up 18bps in 1 hour. Watch out wholesale bank margins if funding costs blow out $JPM $BAC.",
+    "metadata": {
+      "handle": "@MacroDeskTrader",
+      "follower_count": 89000,
+      "verified": true
+    }
+  },
+  {
+    "id": "SIG-TWT-103",
+    "timestamp": "2026-10-11T09:09:03.950791+00:00",
+    "source": "Twitter/X (FinTwit)",
+    "ticker": "XOM",
+    "company": "Exxon Mobil Corporation",
+    "sentiment_score": -1.0,
+    "sentiment_label": "Negative",
+    "event_classification": "Geopolitical",
+    "event_confidence": 0.43,
+    "impact_score": 9,
+    "is_high_impact": true,
+    "summary": "Strait of Hormuz tanker insurance withdrawn by major Lloyd's syndicates",
+    "raw_text": "Strait of Hormuz tanker insurance withdrawn by major Lloyd's syndicates. Brent crude $115+ incoming. Massive tailwind for upstream cash flow $XOM $CVX but ugly for global inflation.",
+    "metadata": {
+      "handle": "@EnergyGeopolitics",
+      "follower_count": 210000,
+      "verified": true
+    }
+  },
+  {
+    "id": "SIG-TWT-104",
+    "timestamp": "2026-10-11T09:09:03.950932+00:00",
+    "source": "StockTwits",
+    "ticker": "BA",
+    "company": "Boeing Co.",
+    "sentiment_score": -1.0,
+    "sentiment_label": "Negative",
+    "event_classification": "Credit Event",
+    "event_confidence": 0.79,
+    "impact_score": 10,
+    "is_high_impact": true,
+    "summary": "S&P rating downgrade to junk is a bloodbath for corporate bond holders",
+    "raw_text": "S&P rating downgrade to junk is a bloodbath for corporate bond holders. Massive forced selling by IG benchmark funds. CDS spreads at 450bps! $BA",
+    "metadata": {
+      "handle": "@DistressedDebtFund",
+      "follower_count": 48000,
+      "verified": false
+    }
+  },
+  {
+    "id": "SIG-TWT-105",
+    "timestamp": "2026-10-11T09:09:03.951091+00:00",
+    "source": "Twitter/X (FinTwit)",
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "sentiment_score": 1.0,
+    "sentiment_label": "Positive",
+    "event_classification": "Merger/Acquisition",
+    "event_confidence": 0.75,
+    "impact_score": 8,
+    "is_high_impact": true,
+    "summary": "Antitrust hurdle cleared with zero friction! $MSFT cyber-defense deal is an accretive masterstroke",
+    "raw_text": "Antitrust hurdle cleared with zero friction! $MSFT cyber-defense deal is an accretive masterstroke. Recurring ARR accretive by Q1 next year. Long & strong.",
+    "metadata": {
+      "handle": "@CloudCapWatch",
+      "follower_count": 67000,
+      "verified": true
+    }
+  },
+  {
+    "id": "SIG-TWT-106",
+    "timestamp": "2026-10-11T09:09:03.951216+00:00",
+    "source": "StockTwits",
+    "ticker": "TSLA",
+    "company": "Tesla Inc.",
+    "sentiment_score": -1.0,
+    "sentiment_label": "Negative",
+    "event_classification": "Regulatory/Legal",
+    "event_confidence": 0.6,
+    "impact_score": 9,
+    "is_high_impact": true,
+    "summary": "DOJ subpoena confirmation causing intraday dump in $TSLA",
+    "raw_text": "DOJ subpoena confirmation causing intraday dump in $TSLA. Subpoena touches autopilot compliance & vendor kickbacks. Institutional bids evaporating fast.",
+    "metadata": {
+      "handle": "@EV_Investigation",
+      "follower_count": 115000,
+      "verified": true
+    }
+  },
+  {
+    "id": "SIG-TWT-107",
+    "timestamp": "2026-10-11T09:09:03.951353+00:00",
+    "source": "Twitter/X (FinTwit)",
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "sentiment_score": 1.0,
+    "sentiment_label": "Positive",
+    "event_classification": "Macroeconomic",
+    "event_confidence": 0.5,
+    "impact_score": 9,
+    "is_high_impact": true,
+    "summary": "$GOOGL winning massive European sovereign banking cloud tenders",
+    "raw_text": "$GOOGL winning massive European sovereign banking cloud tenders. Huge enterprise moat expansion against AWS. Margins on these government deals are 35%+.",
+    "metadata": {
+      "handle": "@SaaS_Earnings",
+      "follower_count": 92000,
+      "verified": true
+    }
+  },
+  {
+    "id": "SIG-TWT-108",
+    "timestamp": "2026-10-11T09:09:03.951464+00:00",
+    "source": "StockTwits",
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "sentiment_score": 0.9182,
+    "sentiment_label": "Positive",
+    "event_classification": "Macroeconomic",
+    "event_confidence": 0.5,
+    "impact_score": 9,
+    "is_high_impact": true,
+    "summary": "$AAPL $110B buyback machine is back in action",
+    "raw_text": "$AAPL $110B buyback machine is back in action. Floor under the stock is rock solid. Services revenue continuous double-digit compounder.",
+    "metadata": {
+      "handle": "@RetailFlowRadar",
+      "follower_count": 180000,
+      "verified": true
+    }
+  }
+]

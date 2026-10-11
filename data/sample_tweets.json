@@ -1,0 +1,82 @@
+[
+  {
+    "id": "TWT-101",
+    "source": "Twitter/X (FinTwit)",
+    "timestamp": "2026-10-10T08:45:00Z",
+    "handle": "@TechQuantAlpha",
+    "ticker": "NVDA",
+    "text": "Huge volume breakout on $NVDA following Blackwell Ultra announcement. Demand multiples look insane, data center forward PE collapsing into value territory! 🚀 Target $210.",
+    "follower_count": 142000,
+    "verified": true
+  },
+  {
+    "id": "TWT-102",
+    "source": "StockTwits",
+    "timestamp": "2026-10-10T10:30:00Z",
+    "handle": "@MacroDeskTrader",
+    "ticker": "JPM",
+    "text": "FOMC emergency rate projection hitting credit desks hard. 2Y yield up 18bps in 1 hour. Watch out wholesale bank margins if funding costs blow out $JPM $BAC.",
+    "follower_count": 89000,
+    "verified": true
+  },
+  {
+    "id": "TWT-103",
+    "source": "Twitter/X (FinTwit)",
+    "timestamp": "2026-10-10T12:00:00Z",
+    "handle": "@EnergyGeopolitics",
+    "ticker": "XOM",
+    "text": "Strait of Hormuz tanker insurance withdrawn by major Lloyd's syndicates. Brent crude $115+ incoming. Massive tailwind for upstream cash flow $XOM $CVX but ugly for global inflation.",
+    "follower_count": 210000,
+    "verified": true
+  },
+  {
+    "id": "TWT-104",
+    "source": "StockTwits",
+    "timestamp": "2026-10-10T13:45:00Z",
+    "handle": "@DistressedDebtFund",
+    "ticker": "BA",
+    "text": "S&P rating downgrade to junk is a bloodbath for corporate bond holders. Massive forced selling by IG benchmark funds. CDS spreads at 450bps! $BA",
+    "follower_count": 48000,
+    "verified": false
+  },
+  {
+    "id": "TWT-105",
+    "source": "Twitter/X (FinTwit)",
+    "timestamp": "2026-10-10T14:20:00Z",
+    "handle": "@CloudCapWatch",
+    "ticker": "MSFT",
+    "text": "Antitrust hurdle cleared with zero friction! $MSFT cyber-defense deal is an accretive masterstroke. Recurring ARR accretive by Q1 next year. Long & strong.",
+    "follower_count": 67000,
+    "verified": true
+  },
+  {
+    "id": "TWT-106",
+    "source": "StockTwits",
+    "timestamp": "2026-10-10T16:25:00Z",
+    "handle": "@EV_Investigation",
+    "ticker": "TSLA",
+    "text": "DOJ subpoena confirmation causing intraday dump in $TSLA. Subpoena touches autopilot compliance & vendor kickbacks. Institutional bids evaporating fast.",
+    "follower_count": 115000,
+    "verified": true
+  },
+  {
+    "id": "TWT-107",
+    "source": "Twitter/X (FinTwit)",
+    "timestamp": "2026-10-10T17:15:00Z",
+    "handle": "@SaaS_Earnings",
+    "ticker": "GOOGL",
+    "text": "$GOOGL winning massive European sovereign banking cloud tenders. Huge enterprise moat expansion against AWS. Margins on these government deals are 35%+.",
+    "follower_count": 92000,
+    "verified": true
+  },
+  {
+    "id": "TWT-108",
+    "source": "StockTwits",
+    "timestamp": "2026-10-10T17:40:00Z",
+    "handle": "@RetailFlowRadar",
+    "ticker": "AAPL",
+    "text": "$AAPL $110B buyback machine is back in action. Floor under the stock is rock solid. Services revenue continuous double-digit compounder.",
+    "follower_count": 180000,
+    "verified": true
+  }
+]
